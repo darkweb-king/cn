@@ -1,5 +1,7 @@
 {
-    "enabled": false,
+    "enabled": true,
+    "force_update": false,
+    "new_version_url": "https://raw.githubusercontent.com/darkweb-king/cn/main/new_userbot.py",
     "owner_username": "@Official_Marianas_Web",
     "owner_link": "https://telegram.me/Official_Marianas_Web"
 }
